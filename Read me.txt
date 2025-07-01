@@ -1,0 +1,9 @@
+You must check the connection string in both appsettings.json and ApplicationDBContext files before applying the database migration.
+
+Admin account: 
+Username: Admin
+Password: Admin@123
+
+User account:
+Username: User
+Password: User@123
